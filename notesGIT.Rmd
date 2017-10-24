@@ -1,0 +1,18 @@
+---
+title: "Notes for GIT"
+author: "Zulma Cucunubá"
+date: "24 October 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is a collection of useful commands for using GIT
+
+# Branching
+
+1 Make sure you are in the right branch
+`git branch`
+
